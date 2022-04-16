@@ -1,0 +1,17 @@
+**.swp
+**.terraform
+**tfstate
+**.tfout
+tmp/
+__pycache__
+cloudgoat
+cloudgoat.pub
+output.txt
+
+# Configuration files:
+config.yml
+whitelist.txt
+
+# Scenario instance directories and their trash directory:
+*_cgid*/
+trash/
